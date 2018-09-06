@@ -1,0 +1,53 @@
+[
+
+    {
+        "keys": [":", "d"],
+        "command": "destroy_pane",
+        "args":
+        {
+            "direction": "self"
+        }
+    },
+    {
+        "keys": [":", "h", "s", "p"],
+        "command": "create_pane",
+        "args":
+        {
+            "direction": "right"
+        },
+        "focus": true
+    },
+    {
+        "keys": [":", "v", "s", "p"],
+        "command": "create_pane",
+        "args":
+        {
+            "direction": "up"
+        },
+        "focus": true
+    },
+    {
+        "keys": ["super+1"],
+        "command": "toggle_side_bar"
+    },
+    {
+        "keys": ["super+enter"],
+        "command": "toggle_full_screen"
+    },
+    {
+        "keys": ["ctrl+super+m"],
+        "command": "find_all_under"
+    },
+
+    // {
+    //     "keys": ["command+shift+r"],
+    //     "command": "htmlprettify"
+
+    // }
+     {
+        "keys": ["command+shift+r"],
+        "command": "js_prettier"
+
+    }
+
+]

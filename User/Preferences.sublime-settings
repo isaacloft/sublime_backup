@@ -1,0 +1,19 @@
+{
+	"atomic_save": "true",
+	"browser": "chrome64",
+	"color_scheme": "Packages/Jeffrey Way Theme/schemes/Facebook.tmTheme",
+	"font_face": "Monaco",
+	"font_size": 19,
+	"ignored_packages":
+	[
+		"Colorsublime",
+		"HTML Boilerplate",
+		"PackageResourceViewer",
+		"Sass",
+		"SassBeautify",
+		"Vintage",
+		"WordPress"
+	],
+	"show_minimap": false,
+	"theme": "Material-Theme.sublime-theme"
+}
