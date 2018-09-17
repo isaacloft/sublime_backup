@@ -215,7 +215,7 @@
 		"printWidth": 80,
 
 		// If true, will use single instead of double quotes
-		"singleQuote": false,
+		"singleQuote": true,
 
 		// Controls the printing of trailing commas wherever possible.
 		//
